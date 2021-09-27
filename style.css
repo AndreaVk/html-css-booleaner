@@ -62,7 +62,6 @@
 }
 
 .thead {
-    color:white;
     color: white;
     background-color: rgb(57, 153, 243);
     text-align: left;
@@ -81,3 +80,23 @@
     background-color: yellow;
 }
 
+.firmafooter{
+    font-size: 15px;
+    color: lightslategray;
+    font-weight: 600;        
+}
+
+.immaginifooter{
+    top:20px;
+    position: relative;
+}
+
+.lorem{
+    font-size: 25px;
+    color:white;
+    position: absolute;
+    top: 10px;
+    left:10px;
+    font-weight: 600;
+
+}
