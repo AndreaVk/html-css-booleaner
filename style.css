@@ -53,5 +53,26 @@
     
 }
 
+.tabella {
+    width:100%;
+    width: 100%;
+    display: inline;
+    font-weight: bold;
+    border-style: none;
+}
+
+.thead {
+    color:white;
+    color: white;
+    background-color: rgb(57, 153, 243);
+    text-align: left;
+    height: 30px;
+}
+.dim {
+    width: 50%;
+}
+.colore {
+    background-color: lightblue;
+}
 
 
